@@ -8,7 +8,8 @@ package com.cxyxs.gittest.test;
  */
 public class Test {
     public static void main(String[] args) {
-        String str="程序猿学社说武汉加油!";
+        String str="程序猿学社说:武汉加油!";
+        str += "中国加油";
         System.out.println(str);
     }
 }
