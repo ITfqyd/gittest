@@ -10,6 +10,7 @@ public class Test {
     public static void main(String[] args) {
         String str="程序猿学社说:武汉加油!";
         str += "中国加油";
+        System.out.println("隔壁老王写的");
         System.out.println(str);
     }
 }
