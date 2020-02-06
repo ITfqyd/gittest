@@ -1,3 +1,7 @@
-# gittest
-git测试
-![](http://q52ykk0ac.bkt.clouddn.com/FrYE-ut_HCd83Oxz6wnXQjMcXZGI)
+###前言
+>社长，一个爱学习、爱分享的程序猿，之前一直做得都是搬运的工作，也就是搬砖的，最近侧重于**数据结构和算法学习**。对这个感兴趣的朋友,可以关注我，可以跟我一起学习,一起进步。
+
+公众号**"程序猿学社"**,每周更新，公众号会比csdn博客提前更新几天
+分享java各个技术点面试题,jvm源码学习，算法和结构，各个技术点的学习文章。
+
+![](http://q52ykk0ac.bkt.clouddn.com/Fn5FTC2MQB6DNdSLDKJKGm13mX6I)
